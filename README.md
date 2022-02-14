@@ -3,7 +3,7 @@
 
 This project is a re-branded repository of [HerokuShell-Rclone](https://github.com/hostitor/HerokuShell-Rclone) by `hostitor`.
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZokoTooz/Rclone-HerokuShell/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZokoToozNoob001/Rclone-HerokuShell/tree/master)
 
 ## Installation
 - First get the following prepared:
